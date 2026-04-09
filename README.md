@@ -1,24 +1,23 @@
-<h1 align="center">Hi there, I'm Abdalmonem</h1>
+<h1 align="center">Abdalmonem Shagar</h1>
+<h4 align="center">Software Developer</h4>
 
+<p align="center">
+  Building robust full-stack applications and continuously adopting new technologies to solve complex problems.
+</p>
 
-- 📫 Reach me @ abdalmonemshagar@gmail.com
-- 👨‍💻 Interested in all kinds of software, especially web development.
+<p align="center">
+  <a href="mailto:abdalmonemshagar@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-abdalmonemshagar%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-### **Tech stack I currently work with:**
-- Languages:
+---
 
-    ![Languages](https://skillicons.dev/icons?i=js,ts,python)
+### 🛠️ Tech Stack
 
-- Front-end:
-
-    ![Front-end](https://skillicons.dev/icons?i=react,tailwindcss)
-    
-- Back-end & Databases: 
-
-    ![Back-end](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb)
-
-- Tools: 
-
-    ![Tools](https://skillicons.dev/icons?i=linux,docker)
-    
-Open to learning and adopting new technologies as needed.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=js,ts,python) |
+| **Front-End** | ![Front-end](https://skillicons.dev/icons?i=react,tailwindcss) |
+| **Back-End & Databases** | ![Back-end](https://skillicons.dev/icons?i=nodejs,expressjs,django,postgresql,mongodb) |
+| **Tools & Infrastructure** | ![Tools](https://skillicons.dev/icons?i=linux,docker) |
