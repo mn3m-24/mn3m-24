@@ -17,7 +17,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Languages](https://skillicons.dev/icons?i=js,ts,python) |
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=js,ts,python,c,cpp) |
 | **Front-End** | ![Front-end](https://skillicons.dev/icons?i=react,tailwindcss) |
 | **Back-End & Databases** | ![Back-end](https://skillicons.dev/icons?i=nodejs,expressjs,django,postgresql,mongodb) |
 | **Tools & Infrastructure** | ![Tools](https://skillicons.dev/icons?i=linux,docker) |
